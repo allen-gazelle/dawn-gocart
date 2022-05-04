@@ -525,7 +525,7 @@
                     itemQuantity: ".js-go-cart-quantity",
                     itemQuantityPlus: ".js-go-cart-quantity-plus",
                     itemQuantityMinus: ".js-go-cart-quantity-minus",
-                    cartMode: "drawer",
+                    cartMode: "mini-cart",
                     drawerDirection: "right",
                     displayModal: !1,
                     moneyFormat: currency.symbol + "{{amount}}",
